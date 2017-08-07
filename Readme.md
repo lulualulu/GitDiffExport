@@ -15,9 +15,7 @@ Hello there,**GitDiffExport** is simple script for export file between git commi
 
 
 ### Windows
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AlbaHkC08W4/0.jpg)]
-(https://www.youtube.com/watch?v=AlbaHkC08W4)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AlbaHkC08W4/0.jpg)](https://www.youtube.com/watch?v=AlbaHkC08W4)
 
 ### macOS
- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/G7_y0-CeRk8/0.jpg)]
-(https://www.youtube.com/watch?v=G7_y0-CeRk8)
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/G7_y0-CeRk8/0.jpg)](https://www.youtube.com/watch?v=G7_y0-CeRk8)
